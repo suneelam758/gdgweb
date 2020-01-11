@@ -1,0 +1,15 @@
+{
+  "name": "web",
+  "version": "1.0.0",
+  "description": "check",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d publicc"
+  },
+  "author": "stark",
+  "license": "ISC",
+  "homepage": "https://suneelam758.github.io/gdgweb",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
